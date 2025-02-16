@@ -1,0 +1,158 @@
+{
+    "games": [
+        {
+            "questions": [
+                {
+                    "question": "Hz. Ömer hangi lakapla anılmıştır?",
+                    "content": [
+                        "Sıddık",
+                        "Faruk",
+                        "Zinnureyn",
+                        "Ebu Turab"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Hz. Ömer'in Kur'an ayetlerini ezberleyerek dini konularda fetva veren iki kişiden biri olmasının nedeni nedir?",
+                    "content": [
+                        "Zengin olması",
+                        "Hitabet yeteneğinin güçlü olması",
+                        "Adaletli olması",
+                        "İlme olan düşkünlüğü"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "question": "Hz. Ömer döneminde gerçekleştirilen reformlardan biri değildir?",
+                    "content": [
+                        "İlk para basımı",
+                        "Bağımsız hâkimler atanması",
+                        "Ordugâh şehirlerin inşası",
+                        "Beytülmal'in kaldırılması"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "question": "Hz. Ömer’in devlet gelirlerini düzenli kaydetme amacı nedir?",
+                    "content": [
+                        "Gelirleri halktan gizlemek",
+                        "Sahabelere maaş bağlamak",
+                        "Adaleti sağlamak ve ekonomik düzeni kurmak",
+                        "Sadece fakirlere yardım etmek"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Hz. Ali’nin Yemen’e gönderilme sebebi nedir?",
+                    "content": [
+                        "Savaş yönetmesi",
+                        "Vergi toplaması",
+                        "Kadı olarak adalet sağlaması",
+                        "Ticaret yapması"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Hz. Ali’nin en belirgin özelliklerinden biri nedir?",
+                    "content": [
+                        "Zengin bir tüccar olması",
+                        "Savaşlara katılmaması",
+                        "Dini konularda derin bilgiye sahip olması",
+                        "Kur’an ayetlerini ezberlememesi"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Hz. Ali, Kur’an ayetleri hakkında nasıl bir bilgiye sahipti?",
+                    "content": [
+                        "Sadece ayetleri okuyabiliyordu",
+                        "Ayetlerin nerede, ne zaman ve hangi sebeple indiğini biliyordu",
+                        "Kur’an’ı baştan sona ezberlememişti",
+                        "Sadece savaşlarla ilgili ayetleri biliyordu"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Hz. Ali'nin cesaretini kanıtladığı savaşlardan biri hangisidir?",
+                    "content": [
+                        "Bedir",
+                        "Hendek",
+                        "Uhud",
+                        "Hepsi"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "question": "Hz. Ali hangi özelliğiyle sahabeler arasında takdir edilmiştir?",
+                    "content": [
+                        "İleri görüşlülüğü",
+                        "Zenginliği",
+                        "Savaşçılığı",
+                        "Tüccar olması"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Hz. Ali’nin hayatını kaybetme sebebi nedir?",
+                    "content": [
+                        "Savaşta ölmesi",
+                        "Hastalığa yakalanması",
+                        "Suikaste uğraması",
+                        "Yaşlılıktan vefat etmesi"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Hz. Ömer'in adalet anlayışı neye dayanıyordu?",
+                    "content": [
+                        "Halkın refahına ve eşitliğe",
+                        "Zenginlerin korunmasına",
+                        "Sadece kendi ailesinin haklarını gözetmesine",
+                        "Hükümdarların ayrıcalıklı olmasına"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Hz. Ömer’in halifeliği döneminde yaptığı yeniliklerden biri nedir?",
+                    "content": [
+                        "İlk İslam Üniversitesi'ni kurması",
+                        "Vakıf sistemini kurması",
+                        "Yeni bir din oluşturması",
+                        "Sadece Araplara yönelik reformlar yapması"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Hz. Ali neden 'Allah yolunda cihad eden' biri olarak anılmıştır?",
+                    "content": [
+                        "Sadece ibadetleriyle meşgul olduğu için",
+                        "Savaşlara katılıp İslam’ı savunduğu için",
+                        "Kur’an’ı ilk ezberleyen olduğu için",
+                        "İslam hukukunu yazdığı için"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Hz. Ömer, halkıyla nasıl bir ilişki içindeydi?",
+                    "content": [
+                        "Onlardan tamamen uzak yaşardı",
+                        "Sadece yöneticilerle görüşürdü",
+                        "Halkın sorunlarına duyarlı olup empati kurardı",
+                        "Sadece fakir insanlara yardım ederdi"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Hz. Ali hangi sahabe tarafından yetiştirilmiştir?",
+                    "content": [
+                        "Hz. Osman",
+                        "Hz. Ebu Bekir",
+                        "Hz. Peygamber (sav)",
+                        "Hz. Ömer"
+                    ],
+                    "correct": 2
+                }
+            ]
+        }
+    ]
+}
